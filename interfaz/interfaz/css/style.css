@@ -9,7 +9,7 @@ body, html {
 
 
 .purchase-interface {
-    background: linear-gradient(90deg, rgba(78, 78, 78, 0.8) 0%, rgba(1, 69, 133, 0.8) 100%), rgba(1, 153, 153, 0.596);
+    background: linear-gradient(90deg, rgb(12, 129, 81) 0%, rgb(145, 16, 177) 100%), rgb(0, 0, 0);
     border-radius: 20px;
     width: 450px;
     position: absolute;
