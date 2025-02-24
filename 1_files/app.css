@@ -22,6 +22,15 @@ html {
   margin-right: 0 !important;
 }
 
+body {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+  color: #798DA3;
+  background: linear-gradient(180deg, #008bc2 3.92%, rgb(170, 0, 192) 36.79%, #0b8877 83.98%);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -155,14 +164,11 @@ section.tf-section.technology {
 .main .page-title .slider-st3 {
   margin-bottom: 0px !important;
 }
-body {
-  font-family: "Space Grotesk", sans-serif;
-  font-size: 15px;
-  line-height: 21px;
-  font-weight: 500;
-  color: #798DA3;
-  background: #09121D;
-}
+
+
+
+
+
 .main .page-title .slider-st3 {
   padding: 167px 0 0;
   background: none;
