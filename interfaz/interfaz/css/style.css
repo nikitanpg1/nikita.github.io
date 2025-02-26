@@ -10,8 +10,8 @@ body, html {
 
 .purchase-interface {
     background: linear-gradient(90deg, rgb(28, 56, 78) 0%, rgb(28, 56, 78) 100%), rgb(0, 0, 0);
-    border-radius: 20px;
-    width: 450px;
+    border-radius: 25px;
+    width: 430px;
     position: absolute;
     left: 50%;
     top: 50%;
