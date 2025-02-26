@@ -28,7 +28,7 @@ body {
   line-height: 21px;
   font-weight: 500;
   color: #798DA3;
-  background: linear-gradient(180deg, #003bfc 3.92%, rgb(255, 0, 106) 36.79%, #ffbb00 83.98%);
+  background: linear-gradient(180deg, #000000 3.92%, rgb(124, 17, 83) 36.79%, #000000 83.98%);
 }
 
 * {
