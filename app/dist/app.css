@@ -17,7 +17,7 @@ body {
   font-size: 15px;
   line-height: 21px;
   font-weight: 500;
-  color: #000000;
+  color: #ffffff;
   background: linear-gradient(180deg, #07ce92 3.92%, rgb(124, 17, 83) 36.79%, #575757 83.98%);
 }
 
@@ -84,7 +84,7 @@ section.tf-section.tier_system {
   border: 5px solid #00afff61 !important;
 }
 .image-box .number h6 {
-  color: #000000;
+  color: #ffffff;
   font-size: 15px !important;
   position: absolute;
   margin-bottom: 0;
@@ -195,7 +195,7 @@ p {
   font-size: 15px;
   line-height: 21px;
   font-weight: 500;
-  color: #000000;
+  color: #ffffff;
 }
 
 img {
@@ -212,7 +212,7 @@ h5,
 h6 {
   font-family: "resobot-bold";
   font-weight: 700;
-  color: #000000;
+  color: #ffffff;
 }
 
 h1,
@@ -351,7 +351,7 @@ a {
   display: inline-block;
 }
 a:hover {
-  color: #0184ff;
+  color: #ffffff;
   transition: all 0.3s;
 }
 
@@ -557,7 +557,7 @@ select {
   border-radius: 0;
   height: 46px;
   width: 100%;
-  color: #798DA3;
+  color: #ffffff;
   padding: 12px 14px;
   border-radius: 8px;
   display: flex;
@@ -592,7 +592,7 @@ input[type=color] {
   height: 46px;
   width: 100%;
   background: #1E2835;
-  color: #798DA3;
+  color: #ffffff;
   padding: 12px 14px;
   border-radius: 8px;
   display: flex;
@@ -617,7 +617,7 @@ input[type=search]::placeholder,
 input[type=tel]::placeholder,
 input[type=color]::placeholder {
   font-family: "Space Grotesk", sans-serif;
-  color: #798DA3;
+  color: #ffffff;
 }
 
 form button {
@@ -693,7 +693,7 @@ form button {
   content: "\f077";
   font-family: "Font Awesome 5 Pro";
   font-size: 18px;
-  color: #000000;
+  color: #ffffff;
   font-weight: 600;
 }
 
@@ -706,7 +706,7 @@ form button {
 .preloader {
   width: 100%;
   height: 100%;
-  background-color: #000000;
+  background-color: #ffffff;
   position: fixed;
   top: 0;
   left: 0;
@@ -864,14 +864,14 @@ form button {
   font-weight: bold;
   position: relative;
   display: block;
-  color: #000000;
+  color: #ffffff;
   padding-right: 15px;
   padding-top: 20px;
   padding-bottom: 20px;
   line-height: 1.5;
 }
 #main-nav .menu li a:hover {
-  color: #0184ff;
+  color: #ffffff;
 }
 #main-nav .menu li:hover .sub-menu {
   opacity: 1;
@@ -895,16 +895,16 @@ form button {
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
   font-size: 12px;
-  color: #000000;
+  color: #ffffff;
 }
 #main-nav .menu li.menu-item-has-children > a:hover::after, #main-nav .menu li.menu-item-has-children > a:hover {
-  color: #0184ff;
+  color: #ffffff;
 }
 #main-nav .menu li.menu-item.current-menu-item > a {
-  color: #000000;
+  color: #ffffff;
 }
 #main-nav .menu li.menu-item.current-menu-item > a::after {
-  color: #000000;
+  color: #ffffff;
 }
 
 #main-nav2 .menu li a {
@@ -914,7 +914,7 @@ form button {
   font-weight: 700;
   position: relative;
   display: block;
-  color: #000000;
+  color: #ffffff;
   padding-right: 18px;
   text-transform: capitalize;
   padding-top: 20px;
@@ -935,7 +935,7 @@ form button {
   font-weight: 600 !important;
   position: relative;
   display: block;
-  color: #000000;
+  color: #ffffff;
   padding-right: 15px;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -1042,29 +1042,29 @@ form button {
 }
 .tf-button.style1 {
   background: #798DA3;
-  color: #000000;
+  color: #ffffff;
 }
 .tf-button.style1:hover {
   background: #0184ff;
-  color: #000000;
+  color: #ffffff;
 }
 .tf-button.style2 {
   background: #0184ff;
-  color: #000000;
+  color: #ffffff;
 }
 .tf-button.style2:hover {
   background: #798DA3;
-  color: #000000;
+  color: #ffffff;
 }
 .tf-button.style3 {
   background: #0184ff;
-  color: #000000;
+  color: #ffffff;
   height: 60px;
   font-size: 16px;
 }
 .tf-button.style3:hover {
   background: #798DA3;
-  color: #000000;
+  color: #ffffff;
 }
 
 /* section
@@ -1091,7 +1091,7 @@ form button {
 .breadcrumbs ul li a {
   font-size: 12px;
   line-height: 1.4;
-  color: #000000;
+  color: #ffffff;
 }
 .breadcrumbs ul li a.icon,
 .breadcrumbs ul li span.icon {
@@ -1127,7 +1127,7 @@ form button {
   margin-top: 8px;
   font-size: 17px;
   line-height: 1.4;
-  color: #000000;
+  color: #ffffff;
   margin-bottom: 27px;
 }
 
@@ -1179,7 +1179,7 @@ form button {
   background: transparent;
   width: 36px;
   height: 36px;
-  color: #000000;
+  color: #ffffff;
   padding: 0;
 }
 .themesflat-pagination ul li a.active, .themesflat-pagination ul li a:hover {
@@ -1330,7 +1330,7 @@ form button {
   margin-bottom: 40px;
   font-size: 17px;
   line-height: 1.4;
-  color: #000000;
+  color: #ffffff;
   font-weight: bold;
 }
 .main .page-title .slider-st3 .box-slider .image {
@@ -1359,7 +1359,7 @@ form button {
   margin-bottom: 40px;
   font-size: 17px;
   line-height: 1.4;
-  color: #000000;
+  color: #ffffff;
   font-weight: bold;
 }
 .main .page-title .box-slider .image {
@@ -1599,7 +1599,7 @@ form button {
 .featured-countdown .desc li {
   font-size: 12px;
   font-weight: bold;
-  color: #000000;
+  color: #ffffff;
 }
 .featured-countdown.style2 {
   padding: 0;
@@ -1612,7 +1612,7 @@ form button {
   font-size: 16px;
   line-height: 1.4;
   font-weight: bold;
-  color: #000000;
+  color: #ffffff;
   margin-bottom: 10px;
 }
 .featured-countdown.style2 .countdown__item {
@@ -1633,7 +1633,7 @@ form button {
 .featured-countdown.style3 .countdown__item::after {
   left: 25px;
   font-weight: 500;
-  color: #000000;
+  color: #ffffff;
   font-size: 14px;
 }
 .featured-countdown.style3 .countdown__item span {
@@ -1652,7 +1652,7 @@ form button {
   position: relative;
   background: url("../../assets/images/backgroup/bg_countdown.png") center center no-repeat;
   background-size: cover;
-  color: #000000;
+  color: #ffffff;
   font-size: 24px;
   font-weight: bold;
 }
@@ -1846,7 +1846,7 @@ form button {
 }
 .details .sidebar .prodect-content .box .inner-box ul li p {
   margin-bottom: 0;
-  color: #000000;
+  color: #ffffff;
   text-align: left;
   width: 73%;
 }
@@ -1958,7 +1958,7 @@ form button {
   background-color: #798DA3;
 }
 .project-info-form .form-inner ul .radio-btn:checked + .label::before {
-  background-color: #000000;
+  background-color: #ffffff;
   content: "\e903";
 }
 .project-info-form .form-inner ul .label {
@@ -2171,7 +2171,7 @@ form button {
   margin-bottom: 8px;
 }
 .tf-blog article .img-box p {
-  color: #000000;
+  color: #ffffff;
   margin-bottom: 103px;
 }
 
@@ -2211,7 +2211,7 @@ form button {
   height: 38px;
 }
 .post-details .content-inner .sub-title {
-  color: #000000;
+  color: #ffffff;
   font-weight: bold;
   margin-bottom: 28px;
   font-size: 17px;
@@ -2263,7 +2263,7 @@ form button {
   border-radius: 6px;
   background: #171F29;
   padding: 6px 8px;
-  color: #000000;
+  color: #ffffff;
 }
 .post-details .related-post .title {
   margin-bottom: 16px;
@@ -2316,7 +2316,7 @@ form button {
   margin-bottom: 8px;
   font-family: "resobot-bold";
   font-weight: bold;
-  color: #000000;
+  color: #ffffff;
 }
 .tf-token .desc-token .total-token p span {
   color: #0184ff;
@@ -2386,7 +2386,7 @@ form button {
 .tokenomics-wrapper .box .td p:nth-child(2) {
   font-size: 17px;
   font-weight: bold;
-  color: #000000;
+  color: #ffffff;
   margin-bottom: 0;
 }
 
@@ -2454,7 +2454,7 @@ form button {
   background-color: #798DA3;
 }
 .wallet-form .choose-network ul li:hover span, .wallet-form .choose-network ul li.active span {
-  color: #000000;
+  color: #ffffff;
 }
 .wallet-form .choose-network ul li img {
   margin-right: 10px;
@@ -2463,7 +2463,7 @@ form button {
   max-width: 30px;
 }
 .wallet-form .choose-network ul li span {
-  color: #000000;
+  color: #ffffff;
   text-transform: uppercase;
 }
 .wallet-form .connect-wallet ul {
@@ -2500,7 +2500,7 @@ form button {
   text-align: left;
 }
 .wallet-form .bottom a {
-  color: #000000;
+  color: #ffffff;
 }
 
 .modal .modal-dialog {
@@ -2529,7 +2529,7 @@ form button {
   height: 64px;
 }
 .modal-content .desc a {
-  color: #000000;
+  color: #ffffff;
 }
 .modal-content .spacing {
   background-color: rgba(255, 255, 255, 0.1);
@@ -2696,7 +2696,7 @@ form button {
   left: 50%;
   transform: translateX(-50%);
   bottom: 0;
-  color: #000000;
+  color: #ffffff;
 }
 .project-info-form .form-inner .upload-img .col p {
   margin-bottom: 0;
@@ -2902,7 +2902,7 @@ form button {
   position: absolute;
   bottom: 30px;
   right: 30px;
-  color: #000000;
+  color: #ffffff;
 }
 .project-info-form.form-login .fogot-pass:hover {
   color: #0184ff;
@@ -3283,7 +3283,7 @@ form button {
   background: url("../../assets/images/common/bg_text2.png");
   background-position: center left;
   background-repeat: no-repeat;
-  color: #000000;
+  color: #ffffff;
   margin-bottom: 0;
   font-size: 17px;
 }
@@ -3355,7 +3355,7 @@ form button {
   left: 50%;
   transform: translateX(-50%);
   font-size: 100px;
-  color: #000000;
+  color: #ffffff;
   opacity: 0.06;
   font-weight: bold;
 }
@@ -3424,7 +3424,7 @@ form button {
   height: 25px;
   margin-left: auto;
   margin-right: auto;
-  color: #000000;
+  color: #ffffff;
   margin-top: 10px;
   font-weight: bold;
 }
@@ -3473,7 +3473,7 @@ form button {
   background: url("../../assets/images/common/bg_text4.png");
   background-position: center left;
   background-repeat: no-repeat;
-  color: #000000;
+  color: #ffffff;
   margin-bottom: 0;
   font-size: 17px;
 }
@@ -3624,7 +3624,7 @@ form button {
   background: url("../../assets/images/common/bg_text3.png");
   background-position: center left;
   background-repeat: no-repeat;
-  color: #000000;
+  color: #ffffff;
   margin-bottom: 0;
   font-size: 17px;
 }
@@ -3692,7 +3692,7 @@ form button {
 .describe_chart li .desc .number {
   font-size: 15px;
   line-height: 21px;
-  color: #000000;
+  color: #ffffff;
 }
 
 .project-box-style3 {
@@ -3786,7 +3786,7 @@ form button {
 }
 .project-box-style3 .content .td p:nth-child(2) {
   font-size: 17px;
-  color: #000000;
+  color: #ffffff;
 }
 .project-box-style3:hover {
   transform: translateY(-10px);
@@ -4050,7 +4050,7 @@ form button {
   font-family: "resobot-bold";
   font-size: 26px;
   line-height: 1.4;
-  color: #000000;
+  color: #ffffff;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -4094,7 +4094,7 @@ form button {
   width: 100%;
 }
 .image-box .number h6 {
-  color: #000000;
+  color: #ffffff;
   font-size: 20px;
   position: absolute;
   margin-bottom: 0;
@@ -4374,7 +4374,7 @@ form button {
   font-size: 14px;
 }
 .project-box-style6 .content-bottom .sub-content li p:nth-child(2) {
-  color: #000000;
+  color: #ffffff;
 }
 
 .project-box-style7 {
@@ -4723,7 +4723,7 @@ form button {
   padding-right: 0;
 }
 .project_wrapper_2 .project-box-style7 .content-progress-box.style2 .progress-title-holder span .progress-number-mark span {
-  color: #000000;
+  color: #ffffff;
 }
 .project_wrapper_2 .project-box-style7 .content-progress-box.style2 .progress-title-holder span .progress-number-mark span.num {
   color: #0184ff;
@@ -4742,7 +4742,7 @@ form button {
 }
 .project_wrapper_2 .text_bottom span {
   font-size: 12px;
-  color: #000000;
+  color: #ffffff;
 }
 
 .project_detail.project-box-style5 {
@@ -4790,7 +4790,7 @@ form button {
 }
 .project_detail.project-box-style5 .content .desc {
   font-size: 17px;
-  color: #000000;
+  color: #ffffff;
 }
 .project_detail.project-box-style5 .content-inner .sub {
   margin-bottom: 8px;
@@ -4810,7 +4810,7 @@ form button {
 }
 .project_detail.project-box-style5 .content-inner .kyc p {
   margin-bottom: 0;
-  color: #000000;
+  color: #ffffff;
 }
 .project_detail.project-box-style5 .content-inner .boder-st {
   position: relative;
@@ -4830,7 +4830,7 @@ form button {
 }
 .project_detail.project-box-style5 .content-inner .total p.active {
   font-size: 17px;
-  color: #000000;
+  color: #ffffff;
   font-weight: bold;
 }
 .project_detail.project-box-style5 .content-progress-box.style2 .progress-title-holder span {
@@ -4844,7 +4844,7 @@ form button {
   align-items: center;
   justify-content: space-between;
   font-size: 14px;
-  color: #000000;
+  color: #ffffff;
 }
 
 .team-box-style2 {
@@ -5269,7 +5269,7 @@ form button {
 .button-fx .btn-next i {
   font-size: 30px;
   font-weight: 100;
-  color: #000000;
+  color: #ffffff;
 }
 
 .btn-prev-team:hover,
@@ -5398,7 +5398,7 @@ form button {
 }
 .btn-next-main:hover i,
 .btn-prev-main:hover i {
-  color: #000000;
+  color: #ffffff;
 }
 .btn-next-main.swiper-button-disabled,
 .btn-prev-main.swiper-button-disabled {
@@ -5406,7 +5406,7 @@ form button {
 }
 .btn-next-main.swiper-button-disabled i,
 .btn-prev-main.swiper-button-disabled i {
-  color: #000000;
+  color: #ffffff;
 }
 
 .page-title .btn-next-main,
@@ -5590,7 +5590,7 @@ form button {
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  color: #000000;
+  color: #ffffff;
   font-size: 14px;
   line-height: 24px;
   font-weight: bold;
@@ -5821,7 +5821,7 @@ h2.title2 {
 }
 .mobile-button:before, .mobile-button:after,
 .mobile-button span {
-  background-color: #000000;
+  background-color: #ffffff;
   -webkit-transition: all ease 0.3s;
   -moz-transition: all ease 0.3s;
   transition: all ease 0.3s;
@@ -5969,7 +5969,7 @@ h2.title2 {
   margin-bottom: 0;
 }
 #footer .footer-main .widget-link li a {
-  color: #000000;
+  color: #ffffff;
 }
 #footer .footer-main .widget-link li a:hover {
   color: #0184ff;
@@ -8518,7 +8518,7 @@ img.mfp-img {
 .widget-title {
   font-size: 20px;
   line-height: 28px;
-  color: #000000;
+  color: #ffffff;
   text-transform: capitalize;
 }
 
@@ -8563,7 +8563,7 @@ img.mfp-img {
   border-radius: 50%;
 }
 .widget .widget-category li a {
-  color: #000000;
+  color: #ffffff;
 }
 .widget .widget-category li a span {
   color: #798DA3;
@@ -8626,14 +8626,14 @@ img.mfp-img {
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  color: #000000;
+  color: #ffffff;
   font-size: 14px;
 }
 .widget .widget-tag li:hover {
   background-color: #0184ff;
 }
 .widget .widget-tag li:hover a {
-  color: #000000;
+  color: #ffffff;
 }
 
 .recent-posts {
@@ -8685,7 +8685,7 @@ img.mfp-img {
   stroke: #0184ff;
 }
 .recent-posts .content .title {
-  color: #000000;
+  color: #ffffff;
   margin-bottom: 0;
 }
 .recent-posts .content .title:hover {
@@ -8756,7 +8756,7 @@ img.mfp-img {
 }
 .progress-title-holder span.percent {
   font-size: 15px;
-  color: #000000;
+  color: #ffffff;
 }
 
 .progress-title {
@@ -8814,7 +8814,7 @@ img.mfp-img {
   line-height: 1.4;
 }
 .project-box-style6 .content-progress-box.style2 .progress-title-holder span.white {
-  color: #000000;
+  color: #ffffff;
 }
 .project-box-style6 .content-progress-box.style2 .progress-title-holder span .progress-number-mark {
   margin-left: 3px;
@@ -8846,7 +8846,7 @@ img.mfp-img {
   min-width: 190px;
   padding: 16px 20px;
   height: 53px;
-  color: #000000;
+  color: #ffffff;
   text-decoration: none;
   border-radius: 8px;
   background: #1E2835;
@@ -8863,7 +8863,7 @@ img.mfp-img {
   font-weight: 400;
   content: "\f078";
   position: absolute;
-  color: #000000;
+  color: #ffffff;
   right: 20px;
 }
 .seclect-box .dropdown li span {
@@ -8874,7 +8874,7 @@ img.mfp-img {
   transition: all 0.3s ease;
   font-size: 15px;
   line-height: 24px;
-  color: #000000;
+  color: #ffffff;
 }
 .seclect-box .dropdown li {
   -webkit-transition: all 0.5s ease;
@@ -8888,7 +8888,7 @@ img.mfp-img {
   padding: 0 10px 0 16px;
   line-height: 45px;
   height: 45px;
-  color: #000000;
+  color: #ffffff;
 }
 .seclect-box .dropdown li.active,
 .seclect-box .dropdown li:hover {
@@ -8905,7 +8905,7 @@ img.mfp-img {
   top: 0;
   transform: translate(0px, 52px) !important;
   border: none;
-  color: #000000;
+  color: #ffffff;
   text-decoration: none;
   border-radius: 0 0 8px 8px;
   background: #1E2835;
@@ -8924,7 +8924,7 @@ img.mfp-img {
   transition: all 0.3s ease;
   font-size: 15px;
   line-height: 24px;
-  color: #000000;
+  color: #ffffff;
 }
 .seclect-box .dropdown-menu.show a:active, .seclect-box .dropdown-menu.show a:hover {
   background: #171F29;
@@ -8945,7 +8945,7 @@ img.mfp-img {
   position: relative;
   font-size: 20px;
   line-height: 1.4;
-  color: #000000;
+  color: #ffffff;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
@@ -8958,7 +8958,7 @@ img.mfp-img {
   position: absolute;
   left: 0;
   top: 0;
-  color: #000000;
+  color: #ffffff;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
@@ -8976,7 +8976,7 @@ img.mfp-img {
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  color: #000000;
+  color: #ffffff;
 }
 .flat-accordion .flat-toggle .toggle-content {
   position: relative;
@@ -9043,7 +9043,7 @@ img.mfp-img {
   margin-bottom: 7px;
 }
 .comment-box .info a {
-  color: #000000;
+  color: #ffffff;
 }
 
 /* panigation
@@ -9062,7 +9062,7 @@ img.mfp-img {
   border-radius: 50%;
   background-color: #1E2835;
   margin: 0 5px;
-  color: #000000;
+  color: #ffffff;
   font-size: 17px;
   font-weight: bold;
 }
