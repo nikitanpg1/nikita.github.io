@@ -1,0 +1,8 @@
+body {
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 15px;
+    line-height: 21px;
+    font-weight: 500;
+    color: #000000;
+    background: linear-gradient(180deg, #07ce92 3.92%, rgb(124, 17, 83) 36.79%, #bd7913 83.98%);
+  }
